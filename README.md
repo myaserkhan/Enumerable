@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -205,17 +205,18 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abdul Saboor Sohaib**
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/SaboorSohaib)
+- Twitter: [@twitterhandle](https://twitter.com/absaboorsohaib)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-saboor-sohaib/
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Selma Hamutenya**
+
+- GitHub: [@SelmaNdapanda](https://github.com/SelmaNdapanda)
+- Twitter: [@SellohBlaq](https://twitter.com/sellohBlaq)
+- LinkedIn: [selma-hamutenya](www.linkedin.com/in/selma-hamutenya)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
